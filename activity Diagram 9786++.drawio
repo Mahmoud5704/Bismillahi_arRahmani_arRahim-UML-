@@ -339,7 +339,9 @@
             <mxPoint x="-4" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdSapymxAon-6Bbof5W0-73" value="this diagram illustrates the process of enrolling in a course on the skillforge platform&amp;nbsp;&lt;br&gt;it shows the flow of actions from student login , selection , payment(if paid course) , enrollment inside the site to start the cousre" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;labelBackgroundColor=none;labelBorderColor=default;textShadow=1;convertToSvg=1;" parent="1" vertex="1">
+        <mxCell id="qdSapymxAon-6Bbof5W0-73" value="This diagram shows how a student enrolls in a course on the SkillForge platform.
+It outlines the step-by-step flow ---starting from logging in, browsing and selecting a course, making a payment (if the course is paid), and finally getting enrolled to start learning.
+This activity diagram helps visualize how the enrollment process actually works, making it easier for developers and designers to understand the sequence of actions and key decision points in the system." style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;labelBackgroundColor=none;labelBorderColor=default;textShadow=1;convertToSvg=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="1800" width="760" height="30" as="geometry" />
         </mxCell>
       </root>
